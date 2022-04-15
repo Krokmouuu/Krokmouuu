@@ -1,6 +1,6 @@
 [![bleroy's 42 stats](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/stats?cursusId=21&coalitionId=116)](https://github.com/JaeSeoKim/badge42)
 
-**minishell**   [![bleroy's 42 minishell Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2554907)](https://github.com/JaeSeoKim/badge42)
+**minishell**   ************[![bleroy's 42 minishell Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2554907)](https://github.com/JaeSeoKim/badge42)
 
 **push_swap**   [![bleroy's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2452553)](https://github.com/JaeSeoKim/badge42)
 
