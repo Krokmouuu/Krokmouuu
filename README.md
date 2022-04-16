@@ -15,4 +15,3 @@
 **ft_printf** [![bleroy's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2403751)](https://github.com/JaeSeoKim/badge42)
 
 **Libft** [![bleroy's 42 Libft Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2380324)](https://github.com/JaeSeoKim/badge42)
-
