@@ -4,7 +4,7 @@
 
 **cub3d (tuc3d)** SOON
 
-**net_practice**[![bleroy's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2606997)](https://github.com/JaeSeoKim/badge42)
+**net_practice** [![bleroy's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2606997)](https://github.com/JaeSeoKim/badge42)
 
 **minishell (drucker)** [![bleroy's 42 minishell Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2554907)](https://github.com/JaeSeoKim/badge42)
 
