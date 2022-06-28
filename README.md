@@ -1,5 +1,7 @@
 [![bleroy's 42 stats](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/stats?cursusId=21&coalitionId=116)](https://github.com/JaeSeoKim/badge42)
 
+**Piscine CPP** LOADING...
+
 **cub3d (tuc3d)** SOON
 
 **net_practice**[![bleroy's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2606997)](https://github.com/JaeSeoKim/badge42)
