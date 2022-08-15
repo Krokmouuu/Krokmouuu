@@ -4,15 +4,15 @@
 <details>
 <summary id="tableOfContents">Piscine CPP</summary>
 
-- [Day00](#regex) [![bleroy's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2670078)](https://github.com/JaeSeoKim/badge42)
-- [Day01](#regex) [![bleroy's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2670210)](https://github.com/JaeSeoKim/badge42)
-- [Day02](#regex) [![bleroy's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2670278)](https://github.com/JaeSeoKim/badge42)
-- [Day03](#regex) [![bleroy's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2671357)](https://github.com/JaeSeoKim/badge42)
-- [Day04](#regex) [![bleroy's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2700864)](https://github.com/JaeSeoKim/badge42)
-- [Day05](#regex) [![bleroy's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2703133)](https://github.com/JaeSeoKim/badge42)
-- [Day06](#regex) [![bleroy's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2716224)](https://github.com/JaeSeoKim/badge42)
-- [Day07](#regex) [![bleroy's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2717020)](https://github.com/JaeSeoKim/badge42)
-- [Day08](#regex) [![bleroy's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2721042)](https://github.com/JaeSeoKim/badge42)
+- [Day00] [![bleroy's 42 CPP Module 00 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2670078)](https://github.com/JaeSeoKim/badge42)
+- [Day01] [![bleroy's 42 CPP Module 01 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2670210)](https://github.com/JaeSeoKim/badge42)
+- [Day02][![bleroy's 42 CPP Module 02 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2670278)](https://github.com/JaeSeoKim/badge42)
+- [Day03] [![bleroy's 42 CPP Module 03 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2671357)](https://github.com/JaeSeoKim/badge42)
+- [Day04] [![bleroy's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2700864)](https://github.com/JaeSeoKim/badge42)
+- [Day05] [![bleroy's 42 CPP Module 05 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2703133)](https://github.com/JaeSeoKim/badge42)
+- [Day06] [![bleroy's 42 CPP Module 06 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2716224)](https://github.com/JaeSeoKim/badge42)
+- [Day07] [![bleroy's 42 CPP Module 07 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2717020)](https://github.com/JaeSeoKim/badge42)
+- [Day08] [![bleroy's 42 CPP Module 08 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2721042)](https://github.com/JaeSeoKim/badge42)
 
 </details>
 </p>
