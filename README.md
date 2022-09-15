@@ -17,7 +17,7 @@
 </details>
 </p>
 
-**cub3d (tuc3d)** FINISHED.
+**cub3d (tuc3d)** [![bleroy's 42 cub3d Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2615031)](https://github.com/JaeSeoKim/badge42)
 
 **net_practice** [![bleroy's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2606997)](https://github.com/JaeSeoKim/badge42)
 
@@ -38,3 +38,16 @@
 **ft_printf** [![bleroy's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2403751)](https://github.com/JaeSeoKim/badge42)
 
 **Libft** [![bleroy's 42 Libft Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2380324)](https://github.com/JaeSeoKim/badge42)
+
+<p>
+<details>
+<summary id="tableOfContents">Exam 42</summary>
+
+- [Exam02] [![bleroy's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2604836)](https://github.com/JaeSeoKim/badge42)
+- [Exam03] [![bleroy's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2521566)](https://github.com/JaeSeoKim/badge42)
+- [Exam04] **-INCOMING-**
+- [Exam05] **----------**
+- [Exam06] **----------**
+
+</details>
+</p>
