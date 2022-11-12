@@ -1,5 +1,7 @@
 [![bleroy's 42 stats](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/stats?cursusId=21&coalitionId=116)](https://github.com/JaeSeoKim/badge42)
 
+**ft_irc** [![bleroy's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2876197)](https://github.com/JaeSeoKim/badge42)
+
 **Inception** [![bleroy's 42 Inception Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2854661)](https://github.com/JaeSeoKim/badge42)
 
 **ft_containers** [![bleroy's 42 ft_containers Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2854719)](https://github.com/JaeSeoKim/badge42)
