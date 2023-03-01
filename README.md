@@ -52,7 +52,7 @@
 - [Exam02] [![bleroy's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2604836)](https://github.com/JaeSeoKim/badge42)
 - [Exam03] [![bleroy's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2521566)](https://github.com/JaeSeoKim/badge42)
 - [Exam04] [![bleroy's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2853700)](https://github.com/JaeSeoKim/badge42)
-- [Exam05] **----------**
+- [Exam05] [![bleroy's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2999461)](https://github.com/JaeSeoKim/badge42)
 - [Exam06] **----------**
 
 </details>
