@@ -1,5 +1,9 @@
 [![bleroy's 42 stats](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/stats?cursusId=21&coalitionId=116)](https://github.com/JaeSeoKim/badge42)
 
+**Ft_transcendence** [![bleroy's 42 ft_transcendence Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/3011072)](https://github.com/JaeSeoKim/badge42)
+
+**Pisicine Python** [![bleroy's 42 Python for Data Science Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/3030430)](https://github.com/JaeSeoKim/badge42)
+
 **ft_irc** [![bleroy's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2876197)](https://github.com/JaeSeoKim/badge42)
 
 **Inception** [![bleroy's 42 Inception Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2854661)](https://github.com/JaeSeoKim/badge42)
@@ -53,7 +57,7 @@
 - [Exam03] [![bleroy's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2521566)](https://github.com/JaeSeoKim/badge42)
 - [Exam04] [![bleroy's 42 Exam Rank 04 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2853700)](https://github.com/JaeSeoKim/badge42)
 - [Exam05] [![bleroy's 42 Exam Rank 05 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/2999461)](https://github.com/JaeSeoKim/badge42)
-- [Exam06] **----------**
+- [Exam06] [![bleroy's 42 Exam Rank 06 Score](https://badge42.vercel.app/api/v2/cl20ljboz005009l98d0knx65/project/3008868)](https://github.com/JaeSeoKim/badge42)
 
 </details>
 </p>
