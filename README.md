@@ -27,8 +27,8 @@ I enjoy the entire process of developing creative projects, relishing the abilit
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/d0a1b39a-f6b4-42ba-b09d-73104c5911b2" alt="Image 4">
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/a9ff7df2-bca9-4af1-8014-9dc5beb640bf" alt="Image 5">
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/bd1825ec-53d7-4cff-b35d-1365451f6fca" alt="Image 6">
-  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/8638ae66-b385-4d77-9db3-c878c79627bd" alt="Image 7">
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/5a2855d2-0775-4f06-94c3-fab7ba85833b" alt="Image 8">
+  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/8638ae66-b385-4d77-9db3-c878c79627bd" alt="Image 7">
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/592c05f0-e336-4f82-88fc-059625752b7a" alt="Image 9">
 </p>
 
@@ -45,10 +45,10 @@ I enjoy the entire process of developing creative projects, relishing the abilit
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/benoit-leroy-35b07828a/" style="font-size: 600px;">Contact me on LinkedIn</a>
-</p>
-
-<p width="100%">
   <img align="left" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb"/>
+  <a href="https://www.linkedin.com/in/benoit-leroy-35b07828a/">
+    <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/536df40b-65a3-406b-b1c7-9f4728a4e32c" style="vertical-align: middle;" />
+  </a>
   <img align="right" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb"/>
 </p>
+
