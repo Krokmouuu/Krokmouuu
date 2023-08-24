@@ -47,7 +47,7 @@ I enjoy the entire process of developing creative projects, relishing the abilit
 <p align="center">
   <img align="left" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb"/>
   <a href="https://www.linkedin.com/in/benoit-leroy-35b07828a/">
-    <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/536df40b-65a3-406b-b1c7-9f4728a4e32c" style="vertical-align: middle;" />
+    <img src="https://github.com/Krokmouuu/Krokmouuu/blob/main/linkedin%20image.png" style="vertical-align: middle;" />
   </a>
   <img align="right" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb"/>
 </p>
