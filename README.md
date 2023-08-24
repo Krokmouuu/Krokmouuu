@@ -5,7 +5,7 @@ Hi 👋
 </h3>
 
 <h3 align="center">
-I'm currently student Developer at 42 💻 !
+I'm a developer student at 42 💻 !
 </h3> 
 
 <h2 align="center">
