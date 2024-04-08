@@ -12,7 +12,7 @@ I'm a developer student at 42 💻 !
 About me 🤗
 </h2>
 
-I'm Benoit, 21 years old, living in Nice, in the south of France. I'm currently a student at 42Nice, learning to code. I have a strong interest in technology, particularly in AI and automation. In the future, I aspire to create something significant, becoming a must-have in the field of AI and developing powerful tools for us, humans 🤖.
+I'm Benoit, 22 years old, living in Nice, in the south of France. I'm currently a student at 42Nice, learning to code. I have a strong interest in technology, particularly in AI and automation. In the future, I aspire to create something significant, becoming a must-have in the field of AI and developing powerful tools for us, humans 🤖.
 
 I possess strong leadership, teamwork, adaptability and self-improvement skills.
 
