@@ -14,7 +14,7 @@ About me 🤗
 
 I'm Benoit, 21 years old, living in Nice, in the south of France. I'm currently a student at 42Nice, learning to code. I have a strong interest in technology, particularly in AI and automation. In the future, I aspire to create something significant, becoming a must-have in the field of AI and developing powerful tools for us, humans 🤖.
 
-I possess strong leadership, teamwork, adaptability and self-improvement skills, and I have gained valuable experience through a short e-sports career.
+I possess strong leadership, teamwork, adaptability and self-improvement skills.
 
 I enjoy the entire process of developing creative projects, relishing the ability to build something from the ground up and continually expand my knowledge.
 
