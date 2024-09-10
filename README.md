@@ -18,6 +18,10 @@ I possess strong leadership, teamwork, adaptability and self-improvement skills.
 
 I enjoy the entire process of developing creative projects, relishing the ability to build something from the ground up and continually expand my knowledge.
 
+
+
+**_I like to keep many of my projects private. I also like to work in private because I don’t want to be stalked or have my ideas stolen._**
+
 <h2 align="center">🌟 My Skills 🌟</h2>
 
 <p align="center">
