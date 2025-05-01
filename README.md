@@ -12,12 +12,13 @@ I'm a developer student at 42 💻 !
 About me 🤗
 </h2>
 
+**I'm currently working as a Full-Stack Developer at [MNGRS.AI](https://mngrs.ai)**
+
 I'm Benoit, 23 years old, living in Nice, in the south of France. I'm currently a student at 42Nice, learning to code. I have a strong interest in technology, particularly in AI and automation. In the future, I aspire to create something significant, becoming a must-have in the field of AI and developing powerful tools for us, humans 🤖.
 
 I possess strong leadership, teamwork, adaptability, creativity and self-improvement skills.
 
 I enjoy the entire process of developing creative projects, relishing the ability to build something from the ground up and continually expand my knowledge.
-
 
 
 **_I like to keep many of my projects private. I also like to work in private because I don’t want to be stalked or have my ideas stolen._**
