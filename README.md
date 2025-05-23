@@ -34,6 +34,7 @@ I enjoy the entire process of developing creative projects, relishing the abilit
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/8638ae66-b385-4d77-9db3-c878c79627bd" alt="Image 7">
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/592c05f0-e336-4f82-88fc-059625752b7a" alt="Image 9">
 
+
 </p>
 
 <h2 align="center">📈 GitHub Stats </h2>
@@ -49,10 +50,16 @@ I enjoy the entire process of developing creative projects, relishing the abilit
 </h2>
 
 <p align="center">
-  <img align="left" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb"/>
+  <img align="left" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb" />
+  
   <a href="https://www.linkedin.com/in/benoit-leroy-35b07828a/">
-    <img src="https://github.com/Krokmouuu/Krokmouuu/blob/main/linkedin%20image.png" style="vertical-align: middle;" />
+    <img width="300px" height="auto" src="https://github.com/Krokmouuu/Krokmouuu/blob/main/linkedin%20image.png" style="vertical-align: middle;" alt="LinkedIn"" />
   </a>
-  <img align="right" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb"/>
+
+  <a href="https://www.malt.fr/profile/benoitleroy">
+    <img width="300px" height="120px" src="https://github.com/user-attachments/assets/73a9f6ff-c4eb-458e-b562-406223124c61" style="vertical-align: middle;" alt="Malt" />
+  </a>
+  
+  <img align="right" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb" />
 </p>
 
