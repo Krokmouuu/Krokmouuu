@@ -1,5 +1,3 @@
-![banner3](https://github.com/Krokmouuu/Krokmouuu/assets/93797994/53139691-134e-49e1-84ab-b4783fb2e8ba)
-
 <h3 align="center">
 Hi 👋
 </h3>
@@ -35,6 +33,7 @@ I enjoy the entire process of developing creative projects, relishing the abilit
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/5a2855d2-0775-4f06-94c3-fab7ba85833b" alt="Image 8">
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/8638ae66-b385-4d77-9db3-c878c79627bd" alt="Image 7">
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/592c05f0-e336-4f82-88fc-059625752b7a" alt="Image 9">
+
 </p>
 
 <h2 align="center">📈 GitHub Stats </h2>
