@@ -3,25 +3,29 @@ Hi 👋
 </h3>
 
 <h3 align="center">
-I'm a developer student at 42 💻 !
+I'm an Entrepreneur & Developer 💻  
+Living from my self-built projects and sharing my passions worldwide 🌍
 </h3> 
 
 <h2 align="center">
 About me 🤗
 </h2>
 
-**I worked as a Full-Stack Developer at [MNGRS.AI](https://mngrs.ai)**
+I’m **100% self-taught**. I once tried to pursue a diploma at **42**, but quickly realized that **skills, passion, and results matter far more than a piece of paper.**  
+Everything I’ve learned comes from **real experience**, **curiosity**, and **a deep drive to create**.  
 
-**When I have free time, I work as a freelancer on various projects SaaS, websites, or even useless things... that surprisingly bring in money. 💸**
+**I previously worked as a Full-Stack Developer at [MNGRS.AI](https://mngrs.ai)**  
 
-I'm Benoit, 23 years old, living in Nice, in the south of France. I'm currently a student at 42Nice, learning to code. I have a strong interest in technology, particularly in AI and automation. In the future, I aspire to create something significant, becoming a must-have in the field of AI and developing powerful tools for us, humans 🤖.
+**Now, I’m focused on building my own projects, SaaS platforms, apps, and creative tools, while exploring the world and turning ideas into reality. 💡**
 
-I possess strong leadership, teamwork, adaptability, creativity and self-improvement skills.
+I'm **Benoit**, 23 years old, currently traveling and living through my entrepreneurial journey.  
+I have a strong passion for **technology**, especially **AI**, **automation**, and **self-growth**.  
+My goal is to build meaningful products that empower people and make a real impact. 🤖  
 
-I enjoy the entire process of developing creative projects, relishing the ability to build something from the ground up and continually expand my knowledge.
+I thrive on **independence**, **creativity**, **adaptability**, and **continuous learning**  
+and I love bringing ambitious ideas to life from scratch.
 
-
-**_I like to keep many of my projects private. I also like to work in private because I don’t want to be stalked or have my ideas stolen._**
+**_I enjoy working in silence and letting results speak for themselves._**
 
 <h2 align="center">🌟 My Skills 🌟</h2>
 
@@ -35,16 +39,12 @@ I enjoy the entire process of developing creative projects, relishing the abilit
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/5a2855d2-0775-4f06-94c3-fab7ba85833b" alt="Image 8">
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/8638ae66-b385-4d77-9db3-c878c79627bd" alt="Image 7">
   <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/592c05f0-e336-4f82-88fc-059625752b7a" alt="Image 9">
-
-
 </p>
 
 <h2 align="center">📈 GitHub Stats </h2>
 
 <p align="center">
-  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krokmouuu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krokmouuu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 <h2 align="center">
@@ -64,4 +64,3 @@ I enjoy the entire process of developing creative projects, relishing the abilit
   
   <img align="right" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb" />
 </p>
-
