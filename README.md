@@ -30,21 +30,44 @@ and I love bringing ambitious ideas to life from scratch.
 <h2 align="center">🌟 My Skills 🌟</h2>
 
 <p align="center">
-  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/71a73708-34e4-4c21-a180-bcb7a70ca611" alt="Image 1">
-  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/2d4051f8-6c7a-4cd7-be81-6aced4f3454c" alt="Image 2">
-  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/c3169694-daec-436f-a143-f60c39c7ef42" alt="Image 3">
-  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/d0a1b39a-f6b4-42ba-b09d-73104c5911b2" alt="Image 4">
-  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/a9ff7df2-bca9-4af1-8014-9dc5beb640bf" alt="Image 5">
-  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/bd1825ec-53d7-4cff-b35d-1365451f6fca" alt="Image 6">
-  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/5a2855d2-0775-4f06-94c3-fab7ba85833b" alt="Image 8">
-  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/8638ae66-b385-4d77-9db3-c878c79627bd" alt="Image 7">
-  <img src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/592c05f0-e336-4f82-88fc-059625752b7a" alt="Image 9">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60" alt="Svelte" />
 </p>
 
-<h2 align="center">📈 GitHub Stats </h2>
+<h2 align="center">☁️ Hosting & DevOps Tools ☁️</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krokmouuu&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="60" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="60" alt="Heroku" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" width="60" alt="Sentry" />
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" width="60" alt="Vercel" />
+</p>
+
+<h2 align="center">🛠️ Collaboration & Productivity Tools 🛠️</h2>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/figma" width="60" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/notion" width="60" alt="Notion" />
+  <img src="https://cdn.simpleicons.org/googlemeet" width="60" alt="Google Meet" />
+  <img src="https://cdn.simpleicons.org/slack" width="60" alt="Slack" />
+</p>
+
+<h2 align="center">💻 My Setup 💻</h2>
+
+<p align="center">
+  <strong>MacBook Pro M4 14"</strong> 🖥️<br/>
+  <strong>Keychron Keyboard</strong> ⌨️<br/>
+  <strong>Triple Screen Setup</strong> 🖥️🖥️🖥️ 
+  <strong>Logitech Camera</strong> 📷
 </p>
 
 <h2 align="center">
