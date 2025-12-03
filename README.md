@@ -14,9 +14,12 @@ About me 🤗
 I’m **100% self-taught**. I once tried to pursue a diploma at **42**, but quickly realized that **skills, passion, and results matter far more than a piece of paper.**  
 Everything I’ve learned comes from **real experience**, **curiosity**, and **a deep drive to create**.  
 
-**I previously worked as a Full-Stack Developer at [MNGRS.AI](https://mngrs.ai)**  
+**I previously worked as a Full-Stack Developer at [MNGRS.AI](https://mngrs.ai)**   
+**I previously worked as a System Admin for Banks in Monaco**
 
 **Now, I’m focused on building my own projects, SaaS platforms, apps, and creative tools, while exploring the world and turning ideas into reality. 💡**
+
+**Founder, Owner & Lead Developer of [Arc Cycle](https://arc-cycle.app)**
 
 I'm **Benoit**, 23 years old, currently traveling and living through my entrepreneurial journey.  
 I have a strong passion for **technology**, especially **AI**, **automation**, and **self-growth**.  
@@ -41,6 +44,7 @@ and I love bringing ambitious ideas to life from scratch.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="60" alt="Svelte" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="60" alt="Swift" />
 </p>
 
 <h2 align="center">☁️ Hosting & DevOps Tools ☁️</h2>
@@ -50,13 +54,17 @@ and I love bringing ambitious ideas to life from scratch.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="60" alt="Heroku" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sentry/sentry-original.svg" width="60" alt="Sentry" />
   <img src="https://cdn.simpleicons.org/vercel/ffffff" width="60" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="60" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/mixpanel/9B59B6" width="60" alt="Mixpanel" />
+  <img src="https://cdn.simpleicons.org/revenuecat/FF0000?color=ffffff" width="60" alt="RevenueCat" />
+  <img src="https://cdn.simpleicons.org/appstore/0D96F6" width="60" alt="App Store" />
 </p>
 
 <h2 align="center">🛠️ Collaboration & Productivity Tools 🛠️</h2>
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/figma" width="60" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/notion" width="60" alt="Notion" />
+  <img src="https://cdn.simpleicons.org/notion/ffffff" width="60" alt="Notion" />
   <img src="https://cdn.simpleicons.org/googlemeet" width="60" alt="Google Meet" />
   <img src="https://cdn.simpleicons.org/slack" width="60" alt="Slack" />
 </p>
