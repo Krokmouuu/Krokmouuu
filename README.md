@@ -83,15 +83,16 @@ and I love bringing ambitious ideas to life from scratch.
 </h2>
 
 <p align="center">
-  <img align="left" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb" />
-  
+  <img width="150" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb" />
+
   <a href="https://www.linkedin.com/in/benoit-leroy-35b07828a/">
-    <img width="300px" height="auto" src="https://github.com/Krokmouuu/Krokmouuu/blob/main/linkedin%20image.png" style="vertical-align: middle;" alt="LinkedIn"" />
+    <img height="120" src="https://github.com/Krokmouuu/Krokmouuu/blob/main/linkedin%20image.png" alt="LinkedIn" />
   </a>
 
   <a href="https://www.malt.fr/profile/benoitleroy">
-    <img width="300px" height="120px" src="https://github.com/user-attachments/assets/73a9f6ff-c4eb-458e-b562-406223124c61" style="vertical-align: middle;" alt="Malt" />
+    <img height="120" src="https://github.com/user-attachments/assets/73a9f6ff-c4eb-458e-b562-406223124c61" alt="Malt" />
   </a>
-  
-  <img align="right" width="150px" height="150px" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb" />
+
+  <img width="150" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb" />
 </p>
+
