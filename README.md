@@ -28,7 +28,7 @@ My goal is to build meaningful products that empower people and make a real impa
 I thrive on **independence**, **creativity**, **adaptability**, and **continuous learning**  
 and I love bringing ambitious ideas to life from scratch.
 
-**_I enjoy working in silence and letting results speak for themselves._**
+**_Much of my work involves private or licensed projects._**
 
 <h2 align="center">🌟 My Skills 🌟</h2>
 
