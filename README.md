@@ -21,7 +21,7 @@ Everything I’ve learned comes from **real experience**, **curiosity**, and **a
 
 **Founder, Owner & Lead Developer of [Arc Cycle](https://arc-cycle.app)**
 
-I'm **Benoit**, 23 years old, currently traveling and living through my entrepreneurial journey.  
+I'm **Benoit**, 24 years old, currently traveling and living through my entrepreneurial journey.  
 I have a strong passion for **technology**, especially **AI**, **automation**, and **self-growth**.  
 My goal is to build meaningful products that empower people and make a real impact. 🤖  
 
@@ -85,13 +85,10 @@ and I love bringing ambitious ideas to life from scratch.
 <p align="center">
   <img width="150" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb" />
 
-  <a href="https://www.linkedin.com/in/benoit-leroy-35b07828a/">
-    <img height="120" src="https://github.com/Krokmouuu/Krokmouuu/blob/main/linkedin%20image.png" alt="LinkedIn" />
+  <a href="https://bleroy.dev/">
+    <img width="140" height="300" alt="hollow-knight-hooded-horned-cloaked-figure-srffEgjq_t-removebg-preview" src="https://github.com/user-attachments/assets/7547a6c4-dc76-4f26-85f6-84bf60ba4f6b" />
   </a>
 
-  <a href="https://www.malt.fr/profile/benoitleroy">
-    <img height="120" src="https://github.com/user-attachments/assets/73a9f6ff-c4eb-458e-b562-406223124c61" alt="Malt" />
-  </a>
 
   <img width="150" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb" />
 </p>
