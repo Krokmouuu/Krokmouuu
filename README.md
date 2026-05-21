@@ -14,8 +14,8 @@ About me 🤗
 I’m **100% self-taught**. I once tried to pursue a diploma at **42**, but quickly realized that **skills, passion, and results matter far more than a piece of paper.**  
 Everything I’ve learned comes from **real experience**, **curiosity**, and **a deep drive to create**.  
 
+**Currently working for [Layerdev.io](https://layerdev.io/)**  
 **I previously worked as a Full-Stack Developer at [MNGRS.AI](https://mngrs.ai)**   
-**I previously worked as a System Admin for Banks in Monaco**
 
 **Now, I’m focused on building my own projects, SaaS platforms, apps, and creative tools, while exploring the world and turning ideas into reality. 💡**
 
