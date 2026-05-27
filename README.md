@@ -17,7 +17,7 @@ Everything I’ve learned comes from **real experience**, **curiosity**, and **a
 **Currently working for [Layerdev.io](https://layerdev.io/)**  
 **I previously worked as a Full-Stack Developer at [MNGRS.AI](https://mngrs.ai)**   
 
-**Now, I’m focused on building my own projects, SaaS platforms, apps, and creative tools, while exploring the world and turning ideas into reality. 💡**
+**I’m focused on building my own projects, SaaS platforms, apps, and creative tools, while exploring the world and turning ideas into reality. 💡**
 
 **Founder, Owner & Lead Developer of [Arc Cycle](https://arc-cycle.app)**                  
 **Founder, Owner & Lead Developer of [EstateUp](https://estate-up.vercel.app/home)** **BETA VISUAL ONLY**      
