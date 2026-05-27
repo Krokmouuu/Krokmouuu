@@ -87,7 +87,7 @@ and I love bringing ambitious ideas to life from scratch.
   <img width="150" src="https://github.com/Krokmouuu/Krokmouuu/assets/93797994/86cfcad8-6dc4-40db-b767-2ddffd7b76eb" />
 
   <a href="https://bleroy.dev/">
-    <img width="140" height="300" alt="hollow-knight-hooded-horned-cloaked-figure-srffEgjq_t-removebg-preview" src="https://github.com/user-attachments/assets/7547a6c4-dc76-4f26-85f6-84bf60ba4f6b" />
+    <img width="300" height="300" alt="hollow-knight-hooded-horned-cloaked-figure-srffEgjq_t-removebg-preview" src="https://github.com/user-attachments/assets/7547a6c4-dc76-4f26-85f6-84bf60ba4f6b" />
   </a>
 
 
