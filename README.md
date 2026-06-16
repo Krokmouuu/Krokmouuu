@@ -19,7 +19,8 @@ Everything I’ve learned comes from **real experience**, **curiosity**, and **a
 
 **I’m focused on building my own projects, SaaS platforms, apps, and creative tools, while exploring the world and turning ideas into reality. 💡**
 
-**Founder, Owner & Lead Developer of [Arc Cycle](https://arc-cycle.app)**                  
+**Founder, Owner & Lead Developer of [Arc Cycle](https://arc-cycle.app)**         
+**Founder, Owner & Lead Developer of [Boostly](https://www.getboostly.app/)**                  
 **Founder, Owner & Lead Developer of [EstateUp](https://estate-up.vercel.app/home)** **BETA VISUAL ONLY**      
 
 I'm **Benoit**, 24 years old, currently traveling and living through my entrepreneurial journey.  
