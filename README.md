@@ -11,7 +11,7 @@ Sharing my passions worldwide 🌍
 About me 🤗
 </h2>
 
-I’m **100% self-taught**. I once tried to pursue a diploma at **42**, but quickly realized that **skills, passion, and results matter far more than a piece of paper.**  
+I’m **100% self-taught**. former **42** student, driven by **curiosity, hands-on experience, and a passion for building.**   
 Everything I’ve learned comes from **real experience**, **curiosity**, and **a deep drive to create**.  
 
 **Currently working for [Layerdev.io](https://layerdev.io/)**  
